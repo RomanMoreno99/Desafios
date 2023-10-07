@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Nike",
+        "description": "Jordan1",
+        "price": 200,
+        "thumbnail": "thumbnail1",
+        "code": "xx1",
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "title": "Nike",
+        "description": "Jordan2",
+        "price": 240,
+        "thumbnail": "thumbnail2",
+        "code": "xx2",
+        "stock": 50
+    },
+    {
+        "id": 3,
+        "title": "Nike",
+        "description": "Jordan3",
+        "price": 220,
+        "thumbnail": "thumbnail3",
+        "code": "xx3",
+        "stock": 20
+    },
+    {
+        "id": 4,
+        "title": "Nike",
+        "description": "Jordan4",
+        "price": 350,
+        "thumbnail": "thumbnail4",
+        "code": "xx4",
+        "stock": 15
+    },
+    {
+        "id": 5,
+        "title": "Nike",
+        "description": "Dunk Panda",
+        "price": 200,
+        "thumbnail": "thumbnail5",
+        "code": "xx5",
+        "stock": 12
+    },
+    {
+        "id": 6,
+        "title": "Nike",
+        "description": "AF1",
+        "price": 150,
+        "thumbnail": "thumbnail6",
+        "code": "xx6",
+        "stock": 9
+    }
+]
